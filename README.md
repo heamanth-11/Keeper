@@ -22,3 +22,8 @@ https://www.youtube.com/watch?v=qZXt1Aom3Cs&t=5413s&ab_channel=TraversyMedia
  ```
 https://www.youtube.com/watch?v=5lVQgZzLMHc&t=581s&ab_channel=TraversyMedia
 ````
+## Django 
+
+```
+https://www.youtube.com/watch?v=PtQiiknWUcI&t=22336s&ab_channel=TraversyMedia
+```
