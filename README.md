@@ -1,9 +1,9 @@
 ## keeper
-#For Keeper-client Setup checkout README.md in keeper-client
+## For Keeper-client Setup checkout README.md in keeper-client
 
-##For keeper-api "dependencies/requirement" checkout Keeper-api/requirement.txt
+## For keeper-api "dependencies/requirement" checkout Keeper-api/requirement.txt
 
-#TO START DJANGO API
+# TO START DJANGO API
 ```
 cd keeper-api
 ```
@@ -11,7 +11,7 @@ cd keeper-api
 python manage.py runserver
 ```
 
-Resources Used to Learn
+# Resources Used to Learn
 
 <h2> Vuejs</h2>
 
